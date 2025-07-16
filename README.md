@@ -42,7 +42,6 @@ I enjoy transforming real-world ideas into intuitive mobile apps and follow best
 
 - ✅ Light/Dark theme toggle  
 - 🔁 Currency switch and reverse conversion  
-- 💾 Conversion history using SharedPreferences  
 - 🎨 Clean Material Design UI and state management  
 
 📍 More projects coming soon — stay tuned!
