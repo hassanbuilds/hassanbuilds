@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Hassan 👋</h1>
 
 <p align="center">
-  <b>Flutter Developer · Computer Science Student · Builder of sleek & performant mobile apps</b>
+  <b>Flutter Developer · Computer Science Student · Passionate about building sleek & performant mobile apps</b>
 </p>
 
 ---
 
 ## 📌 About Me
 
-I'm a Flutter front-end developer and Computer Science student from Pakistan 🇵🇰.  
-I love turning real-world ideas into **beautiful, responsive, and high-performance mobile apps**.  
+I'm a Flutter developer and Computer Science student from Pakistan 🇵🇰.  
+I love transforming ideas into **beautiful, responsive, and high-performance mobile apps**.  
 
 My focus areas include:  
-- ⚡ Clean UI & intuitive UX  
-- 🛠 Scalable state management  
+- ⚡ Scalable state management  
 - ☁️ Firebase integration (Auth, Firestore, Storage)  
+- 🎨 Clean UI & intuitive UX  
 - 📱 Cross-platform (Android & iOS)  
 
 ---
@@ -31,6 +31,7 @@ My focus areas include:
 </p>
 
 **Languages & Frameworks:** Dart, Flutter  
+**State Management:** Provider, Riverpod (learning more…)  
 **Backend-as-a-Service:** Firebase (Firestore, Auth, Storage)  
 **Tools & IDEs:** Git, GitHub, Android Studio, VS Code, Postman, Figma  
 
@@ -43,6 +44,7 @@ My focus areas include:
 - ✅ Light/Dark theme toggle  
 - 🔁 Currency switch & reverse conversion  
 - 🎨 Clean Material Design & smooth state handling  
+- 💾 Conversion history with SharedPreferences  
 
 👉 More projects coming soon!
 
