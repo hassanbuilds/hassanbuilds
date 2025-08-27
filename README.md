@@ -1,35 +1,35 @@
-<h1 align="center">👋 Hi, I'm Hassan</h1>
-
-<p align="center">
-  🚀 Flutter Developer | 🎨 UI/UX Enthusiast | ☁️ Firebase & State Management  
-</p>
-
----
-
-## ⚡ About Me
-- 📱 Building sleek & performant Flutter apps  
-- ☁️ Experienced with Firebase (Auth, Firestore, Storage)  
-- ⚡ Focused on scalable state management & clean UI  
+<div align="center">
+  <img src="85416c1d-090c-453c-8594-a1b089f969ae.png" alt="Project Banner" width="600"/>
+  
+  # 🚀 Flutter Learning Journey
+  *Building apps with modern Flutter practices*
+</div>
 
 ---
 
-## 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 🔑 What’s Inside
+- 📱 Flutter development with **clean & scalable architecture**  
+- ☁️ **Firebase integration** (Auth, Firestore, Storage)  
+- 🔗 **REST API integration** & data handling  
+- ⚡ **State management** (Provider, Riverpod)  
+- 🛡️ **Frontend security** (Firebase rules, secure local storage)  
+- 🌳 Understanding **Widget Tree** & **Render Object Tree**  
 
 ---
 
-## 🚀 Featured Project
-🔹 **Currency Converter App**  
-A Flutter app with light/dark themes, reverse conversion, and smooth state handling.  
+## 📂 About
+This repository is part of my **hands-on Flutter journey** — learning by building real apps with **Firebase, APIs, and state management**.  
+Each project reflects best practices, beginner-friendly code, and a focus on clean design.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanbuilds&show_icons=true&theme=tokyonight" height="150"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanbuilds&layout=compact&theme=tokyonight" height
+## 🌟 Goals
+✔ Strengthen Flutter fundamentals  
+✔ Master Firebase + API integrations  
+✔ Write production-ready, maintainable code  
+
+---
+
+<div align="center">
+  Made with ❤️ in Flutter
+</div>
