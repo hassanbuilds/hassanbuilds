@@ -1,19 +1,21 @@
-<h1 align="center">Hi, I'm Hassan</h1>
+<h1 align="center">Hi, I'm Hassan 👋</h1>
 
 <p align="center">
-  <b>Flutter Developer · Computer Science Student · Passionate about building beautiful and performant mobile apps</b>
+  <b>Flutter Developer · Computer Science Student · Builder of sleek & performant mobile apps</b>
 </p>
 
 ---
 
 ## 📌 About Me
 
-I'm a self-taught Flutter front-end developer and a Computer Science student from Pakistan 🇵🇰.  
-I specialize in building modern mobile applications using Flutter and Firebase, with a strong emphasis on clean UI, performance, and responsive design.
+I'm a Flutter front-end developer and Computer Science student from Pakistan 🇵🇰.  
+I love turning real-world ideas into **beautiful, responsive, and high-performance mobile apps**.  
 
-I enjoy transforming real-world ideas into intuitive mobile apps and follow best practices in scalable code architecture, state management, and UI/UX design.
-
-🔍 I'm actively seeking an internship or junior Flutter developer role where I can apply my skills, grow with a team, and contribute to real-world projects.
+My focus areas include:  
+- ⚡ Clean UI & intuitive UX  
+- 🛠 Scalable state management  
+- ☁️ Firebase integration (Auth, Firestore, Storage)  
+- 📱 Cross-platform (Android & iOS)  
 
 ---
 
@@ -31,24 +33,22 @@ I enjoy transforming real-world ideas into intuitive mobile apps and follow best
 **Languages & Frameworks:** Dart, Flutter  
 **Backend-as-a-Service:** Firebase (Firestore, Auth, Storage)  
 **Tools & IDEs:** Git, GitHub, Android Studio, VS Code, Postman, Figma  
-**Platforms:** Android & iOS
 
 ---
 
 ## 🚀 Featured Project
 
 ### 🔹 Currency Converter App  
-*A Flutter-based app with:*
-
+*A Flutter app with:*  
 - ✅ Light/Dark theme toggle  
-- 🔁 Currency switch and reverse conversion  
-- 🎨 Clean Material Design UI and state management  
+- 🔁 Currency switch & reverse conversion  
+- 🎨 Clean Material Design & smooth state handling  
 
-📍 More projects coming soon — stay tuned!
+👉 More projects coming soon!
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p>
   <a href="https://github.com/hassanbuilds"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -58,5 +58,5 @@ I enjoy transforming real-world ideas into intuitive mobile apps and follow best
 ---
 
 <p align="center">
-  <i>From <a href="https://github.com/hassanbuilds">hassanbuilds</a></i>
+  <i>✨ Exploring · Building · Sharing · Growing ✨</i>
 </p>
