@@ -1,35 +1,45 @@
-<div align="center">
-  <img src="85416c1d-090c-453c-8594-a1b089f969ae.png" alt="Project Banner" width="600"/>
-  
-  # 🚀 Flutter Learning Journey
-  *Building apps with modern Flutter practices*
-</div>
+<h1 align="center">👋 Hi, I'm Hassan</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/coding.gif" alt="Coding Illustration" width="400"/>
+</p>
+
+<p align="center">
+  🚀 Flutter Developer | 🎨 UI/UX Enthusiast | ☁️ Firebase & State Management  
+</p>
 
 ---
 
-## 🔑 What’s Inside
-- 📱 Flutter development with **clean & scalable architecture**  
-- ☁️ **Firebase integration** (Auth, Firestore, Storage)  
-- 🔗 **REST API integration** & data handling  
-- ⚡ **State management** (Provider, Riverpod)  
-- 🛡️ **Frontend security** (Firebase rules, secure local storage)  
-- 🌳 Understanding **Widget Tree** & **Render Object Tree**  
+## ⚡ About Me
+- 📱 Crafting sleek & performant Flutter applications  
+- ☁️ Skilled in Firebase (Authentication, Firestore, Storage)  
+- ⚡ Focused on scalable state management & clean, modern UI  
+- 🚀 Passionate about building apps that deliver real impact  
 
 ---
 
-## 📂 About
-This repository is part of my **hands-on Flutter journey** — learning by building real apps with **Firebase, APIs, and state management**.  
-Each project reflects best practices, beginner-friendly code, and a focus on clean design.
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 🌟 Goals
-✔ Strengthen Flutter fundamentals  
-✔ Master Firebase + API integrations  
-✔ Write production-ready, maintainable code  
+## 🚀 Featured Project
+🔹 **Currency Converter App**  
+A Flutter app with:  
+- 🌗 Light & dark themes  
+- 🔄 Reverse conversion  
+- 💾 SharedPreferences-based history  
+- ⚡ Smooth animations & clean state handling  
 
 ---
 
-<div align="center">
-  Made with ❤️ in Flutter
-</div>
+## 🌐 Connect With Me
+<p>
+  <a href="https://github.com/hassanbuilds"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hassancodes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
