@@ -35,34 +35,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌗 Currency Converter App  
-A Flutter app with:  
-- 🌙 Light & Dark themes  
-- 🔄 Reverse conversion  
-- 💾 SharedPreferences-based history  
-- ⚡ Smooth animations & clean state handling  
-🔗 [View Repository](https://github.com/your-username/currency_converter_flutter)  
-
----
-
-### 🌦️ Weather App  
-- ⛅ Real-time weather data with OpenWeather API  
-- 🎨 Modern 3D-style UI with dynamic themes  
-- ⚡ Animated icons, smooth transitions, and responsive design  
-🔗 [View Repository](https://github.com/your-username/weather_app_flutter)  
-
----
-
-### 🦠 COVID-19 Tracker  
-- 📊 Global & country-specific stats via REST API  
-- 📈 Interactive charts & visualizations  
-- 💡 Clean UI + State management with Provider  
-🔗 [View Repository](https://github.com/your-username/flutter_covid_tracker)  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hassanbuilds&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
