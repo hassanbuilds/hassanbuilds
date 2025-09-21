@@ -11,30 +11,70 @@
 ---
 
 ## ⚡ About Me
-- 📱 Crafting sleek & performant Flutter applications  
-- ☁️ Skilled in Firebase (Authentication, Firestore, Storage)  
-- ⚡ Focused on scalable state management & clean, modern UI  
-- 🚀 Passionate about building apps that deliver real impact  
+**Flutter developer & CS student passionate about turning ideas into polished, scalable apps — combining Firebase, APIs, and intuitive UI/UX.**
 
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
+**Languages & Frameworks**  
+<p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+**Backend & Cloud**  
+<p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+**Tools & Platforms**  
+<p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Project
-🔹 **Currency Converter App**  
+## 🚀 Featured Projects
+
+### 🌗 Currency Converter App  
 A Flutter app with:  
-- 🌗 Light & dark themes  
+- 🌙 Light & Dark themes  
 - 🔄 Reverse conversion  
 - 💾 SharedPreferences-based history  
 - ⚡ Smooth animations & clean state handling  
+🔗 [View Repository](https://github.com/your-username/currency_converter_flutter)  
+
+---
+
+### 🌦️ Weather App  
+- ⛅ Real-time weather data with OpenWeather API  
+- 🎨 Modern 3D-style UI with dynamic themes  
+- ⚡ Animated icons, smooth transitions, and responsive design  
+🔗 [View Repository](https://github.com/your-username/weather_app_flutter)  
+
+---
+
+### 🦠 COVID-19 Tracker  
+- 📊 Global & country-specific stats via REST API  
+- 📈 Interactive charts & visualizations  
+- 💡 Clean UI + State management with Provider  
+🔗 [View Repository](https://github.com/your-username/flutter_covid_tracker)  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanbuilds&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanbuilds&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+- 📘 **Riverpod & advanced state management**  
+- ☁️ **Firebase Cloud Functions**  
+- 🎨 **Modern UI/UX design patterns in Flutter**  
 
 ---
 
