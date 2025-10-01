@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Hassan</h1>
+<h1 align="center">👋 Hi, I'm Muhammad  Hassan</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/coding.gif" alt="Coding Illustration" width="400"/>
