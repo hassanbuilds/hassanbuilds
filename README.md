@@ -11,8 +11,8 @@
 ---
 
 ## ⚡ About Me
-I craft **production-ready Flutter apps** with a focus on **scalable architecture, Firebase backend, and REST API integration**.  
-Passionate about delivering **polished mobile experiences** through clean code, modern state management (MVVM, Provider/Riverpod), and intuitive UI/UX.  
+I develop **production-ready Flutter apps** with **Firebase backend, REST APIs, and scalable architecture**.  
+I focus on **state management (Provider, Riverpod) with MVVM**, writing clean code, and delivering **modern UI/UX** that feels intuitive and polished.  
 
 ---
 
@@ -39,10 +39,9 @@ Passionate about delivering **polished mobile experiences** through clean code, 
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I Do
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanbuilds&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanbuilds&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+App+Development+⚡;Firebase+%7C+APIs+Integration;Clean+Architecture+%7C+MVVM;UI%2FUX+Focused+Development+🎨" />
 </p>
 
 ---
