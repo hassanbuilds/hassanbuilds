@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Flutter Mobile App Developer | ☁️ Firebase & APIs | 🎨 Clean UI/UX Enthusiast
+  🚀 Flutter Mobile App Developer | ☁️ Firebase & APIs | 🎨 Clean UI/UX Enthusias
 </p>
 
 ---
